@@ -25,7 +25,7 @@ Your mission is to create an **EventBridge rule** that triggers a **Kinesis Data
 
 The configuration files for **Heist 1: Trevor's Data Firehose Job** will be created live during the upcoming stream! 🎮 Join us for the session, where we’ll walk through building the Terraform infrastructure step-by-step.
 
-1. **Tune in to the live stream**: Catch the live stream on [Twitch](https://www.twitch.tv/giftedlane) every Sunday at 9:30 AM EST. We’ll be building and explaining each part of the infrastructure together, live!
+1. **Tune in to the live stream**: Catch the live stream on [Twitch](https://www.twitch.tv/giftedlane) every Sunday at 9:30 AM EST. We’ll be building and explaining each part of the infrastructure together, live! (October 20, 2024)
    
 2. **Follow along**: During the stream, you can code along with us or simply watch and take notes. After the stream, the completed Terraform configuration files will be pushed to this directory for your use.
 
@@ -44,4 +44,4 @@ The configuration files for **Heist 1: Trevor's Data Firehose Job** will be crea
 
 ### Important Note:
 
-This README and the configuration files will be updated immediately following the stream to reflect the completed infrastructure for **Heist 1**. Be sure to check back for the final files!
+This README and the configuration files will be updated immediately following the stream (October 20, 2024) to reflect the completed infrastructure for **Heist 1**. Be sure to check back for the final files!
